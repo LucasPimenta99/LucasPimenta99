@@ -29,6 +29,7 @@ Minha principal expertise está em **Java**, e estou aprofundando meus conhecime
 ![JPA](https://img.shields.io/badge/JPA-005571?style=for-the-badge&logo=hibernate&logoColor=white)  
 
 ### 🗄️ Bancos de Dados  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 ### 🛠️ Ferramentas  
