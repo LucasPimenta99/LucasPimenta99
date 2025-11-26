@@ -1,6 +1,6 @@
 # 👨‍💻 Desenvolvedor Back-end em Formação  
 
-Olá! Sou um **Desenvolvedor Back-end em formação** na área de **Tecnologia da Informação**, atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho forte interesse em **construir soluções escaláveis, eficientes e de alta performance**.  
+Olá! Sou um **Desenvolvedor Back-end em formação** na área de **Tecnologia da Informação**, atualmente cursando **Engenharia de Software** & **Análise e Desenvolvimento de Sistemas (ADS)**. Tenho forte interesse em **construir soluções escaláveis, eficientes e de alta performance**.  
 
 Minha principal expertise está em **Java**, e estou aprofundando meus conhecimentos em **Kotlin**, com foco no desenvolvimento de **APIs REST robustas** e integrações otimizadas com diferentes bancos de dados.  
 
