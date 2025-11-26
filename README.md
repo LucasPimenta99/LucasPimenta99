@@ -7,6 +7,7 @@ Minha principal expertise está em **Java**, e estou aprofundando meus conhecime
 ---
 
 ## 🚀 Sobre mim  
+- 🎓 Estudante de **Engenharia de Software** 
 - 🎓 Estudante de **ADS (Análise e Desenvolvimento de Sistemas)**  
 - 🔧 Experiência prática com **Spring Boot, JPA, SQL e Docker** em projetos pessoais  
 - 🏗️ Interesse em **boas práticas de código limpo e arquitetura de sistemas**  
